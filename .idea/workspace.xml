@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bd7be60-9650-4040-a399-d41a301a14ab" name="Changes" comment="Add dummy tests">
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    <list default="true" id="5bd7be60-9650-4040-a399-d41a301a14ab" name="Changes" comment="Update project settings">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/python-package.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/python-package.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694243581962</updated>
       <workItem from="1694243584507" duration="1044000" />
-      <workItem from="1694245089265" duration="12924000" />
+      <workItem from="1694245089265" duration="13314000" />
     </task>
     <task id="LOCAL-00001" summary="Update python-package.yml">
       <option name="closed" value="true" />
@@ -90,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694351278124</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update project settings">
+      <option name="closed" value="true" />
+      <created>1694351344301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694351344301</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +110,7 @@
     <MESSAGE value="Add LICENSE" />
     <MESSAGE value="Make publishable" />
     <MESSAGE value="Add dummy tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add dummy tests" />
+    <MESSAGE value="Update project settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update project settings" />
   </component>
 </project>

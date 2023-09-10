@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bd7be60-9650-4040-a399-d41a301a14ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/python-package.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/python-package.yml" afterDir="false" />
+    <list default="true" id="5bd7be60-9650-4040-a399-d41a301a14ab" name="Changes" comment="Update python-package.yml">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2V9LvlhbLmYGsNOat9dpwTKSWHz" />
   <component name="ProjectLevelVcsManager">
@@ -54,8 +57,17 @@
       <option name="presentableId" value="Default" />
       <updated>1694243581962</updated>
       <workItem from="1694243584507" duration="1044000" />
-      <workItem from="1694245089265" duration="9608000" />
+      <workItem from="1694245089265" duration="9869000" />
     </task>
+    <task id="LOCAL-00001" summary="Update python-package.yml">
+      <option name="closed" value="true" />
+      <created>1694345989483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694345989483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,5 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update python-package.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update python-package.yml" />
   </component>
 </project>

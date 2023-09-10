@@ -1,4 +1,12 @@
 [[package]]
+name = "jevgeni-tarassov-rusty-results"
+version = "1.0.0"
+description = "Result class similar to Rust's Result"
+category = "main"
+optional = false
+python-versions = ">=3.10,<4.0"
+
+[[package]]
 name = "python-dotenv"
 version = "1.0.0"
 description = "Read key-value pairs from a .env file and set them as environment variables"
@@ -20,9 +28,13 @@ python-versions = ">=2.6, !=3.0.*, !=3.1.*, !=3.2.*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "9b0a4ca985849c8d219ef3dbbbd3f695177b90e466b410c1c8fad3062e9521d0"
+content-hash = "a342b05c51d1c2a35a44717951441ce9684b150feb2d60c6c44c4f9942315af5"
 
 [metadata.files]
+jevgeni-tarassov-rusty-results = [
+    {file = "jevgeni_tarassov_rusty_results-1.0.0-py3-none-any.whl", hash = "sha256:e7b7370f18d628ac828d7dee3ac44aa60ca8e54ad7e7ed4264a60fc9ca2b64b6"},
+    {file = "jevgeni_tarassov_rusty_results-1.0.0.tar.gz", hash = "sha256:be5d313a133891f62c899a512212dbee186e75a79e46fe858a4dc4a1a0dfb0af"},
+]
 python-dotenv = [
     {file = "python-dotenv-1.0.0.tar.gz", hash = "sha256:a8df96034aae6d2d50a4ebe8216326c61c3eb64836776504fcca410e5937a3ba"},
     {file = "python_dotenv-1.0.0-py3-none-any.whl", hash = "sha256:f5971a9226b701070a4bf2c38c89e5a3f0d64de8debda981d1db98583009122a"},

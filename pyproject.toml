@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cfg"
+name = "jevgeni-tarassov-cfg"
 version = "0.1.0"
 description = ""
 authors = ["Jevgeni Tarassov <jevgeni@tarassov.ch>"]
@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 toml = "^0.10.2"
 python-dotenv = "^1.0.0"
+jevgeni-tarassov-rusty-results = "^1.0.0"
 
 
 [build-system]

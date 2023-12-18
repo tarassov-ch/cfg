@@ -5,13 +5,17 @@ description = ""
 authors = ["Jevgeni Tarassov <jevgeni@tarassov.ch>"]
 readme = "README.md"
 packages = [{include = "cfg"}]
+repository = "https://github.com/tarassov-ch/cfg"
+homepage = "https://jevgeni.tarassov.ch/code/cfg"
 
 [tool.poetry.dependencies]
 python = "^3.10"
 toml = "^0.10.2"
 python-dotenv = "^1.0.0"
-jevgeni-tarassov-rusty-results = "^1.0.0"
+jevgeni-tarassov-rusty-results = "^1.0.3"
 
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
 
 [build-system]
 requires = ["poetry-core"]

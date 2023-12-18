@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="$USER_HOME$/anaconda3/bin/black" />
+    <option name="sdkUUID" value="dd2f56f4-25d5-48eb-8ae9-656aaf6f5c0a" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (cfg)" project-jdk-type="Python SDK" />
 </project>
